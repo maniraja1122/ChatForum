@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "97385190930",
+    "project_id": "chatforum-3f8d5",
+    "storage_bucket": "chatforum-3f8d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97385190930:android:c8705b47e2717ffe776acb",
+        "android_client_info": {
+          "package_name": "com.example.chatforum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97385190930-omsnhpbr6150ep4t7cqn6pi4198sqqjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAnt6SvbbZzX9ZsTDvoMHWzjqbOkYbkg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97385190930-omsnhpbr6150ep4t7cqn6pi4198sqqjd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "97385190930-dgp8d8tlt9pabd69f14shnn1lrf1cqbf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatforum"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
